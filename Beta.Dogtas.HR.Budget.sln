@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beta.Dogtas.HR.Budget.DataAccess", "Beta.Dogtas.HR.Budget.DataAccess\Beta.Dogtas.HR.Budget.DataAccess.csproj", "{E3E56E3B-B3DC-4AAB-AB73-4CC6B960C32E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beta.Dogtas.HR.Budget.Model", "Beta.Dogtas.HR.Budget.Model\Beta.Dogtas.HR.Budget.Model.csproj", "{99E107C4-65C0-4574-87B5-010DCBD648E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beta.Dogtas.HR.Budget.Repository", "Beta.Dogtas.HR.Budget.Repository\Beta.Dogtas.HR.Budget.Repository.csproj", "{0978482D-96AB-4F62-B0AF-02E23207171B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beta.Dogtas.HR.Budget.Operator", "Beta.Dogtas.HR.Budget.Operator\Beta.Dogtas.HR.Budget.Operator.csproj", "{FDE51226-70DC-43A7-BC8F-2E84CC337D59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beta.Dogtas.HR.Budget.Tool", "Beta.Dogtas.HR.Budget.Tool\Beta.Dogtas.HR.Budget.Tool.csproj", "{875159DC-1B87-4B73-AEFA-CC9ED8A07888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3E56E3B-B3DC-4AAB-AB73-4CC6B960C32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E56E3B-B3DC-4AAB-AB73-4CC6B960C32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E56E3B-B3DC-4AAB-AB73-4CC6B960C32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E56E3B-B3DC-4AAB-AB73-4CC6B960C32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E107C4-65C0-4574-87B5-010DCBD648E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E107C4-65C0-4574-87B5-010DCBD648E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E107C4-65C0-4574-87B5-010DCBD648E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E107C4-65C0-4574-87B5-010DCBD648E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0978482D-96AB-4F62-B0AF-02E23207171B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0978482D-96AB-4F62-B0AF-02E23207171B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0978482D-96AB-4F62-B0AF-02E23207171B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0978482D-96AB-4F62-B0AF-02E23207171B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE51226-70DC-43A7-BC8F-2E84CC337D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE51226-70DC-43A7-BC8F-2E84CC337D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE51226-70DC-43A7-BC8F-2E84CC337D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE51226-70DC-43A7-BC8F-2E84CC337D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875159DC-1B87-4B73-AEFA-CC9ED8A07888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875159DC-1B87-4B73-AEFA-CC9ED8A07888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875159DC-1B87-4B73-AEFA-CC9ED8A07888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875159DC-1B87-4B73-AEFA-CC9ED8A07888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47EB9BB4-4BD5-47FA-A8F7-B3ACB39D5F1C}
+	EndGlobalSection
+EndGlobal
